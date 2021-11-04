@@ -10,6 +10,7 @@ job:
     -post job
     -category
     -experience
+
 blog:
     -title
     -description
@@ -23,4 +24,27 @@ blog:
 contact
 home
 loging
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
